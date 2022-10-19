@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <img src="/profile-picture.jpeg" alt="Profile Picture" width="250px" />
+        <img src="/profile-picture.jpeg" alt="Profile" width="250px" />
       </div>
       <h1>Khadijah Nabil</h1>
       <p>Frontend Developer</p>
