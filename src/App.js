@@ -34,13 +34,13 @@ function App() {
         </div>
         <footer>
           <button type="button" className="btn btn-secondary small-links">
-            <i className="fa-brands fa-twitter" />
+            <i className="fa-brands fa-twitter small-icons" />
           </button>
           <button type="button" className="btn btn-secondary small-links">
-            <i className="fa-brands fa-instagram" />
+            <i className="fa-brands fa-instagram small-icons" />
           </button>
           <button type="button" className="btn btn-secondary small-links">
-            <i className="fa-brands fa-github" />
+            <i className="fa-brands fa-github small-icons" />
           </button>
         </footer>
       </div>

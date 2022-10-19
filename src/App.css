@@ -54,7 +54,13 @@ footer {
 }
 
 .small-links {
-  width: 40px;
-  height: 40px;
+  width: 25px;
+  height: 25px;
   margin: 0 20px;
+}
+
+.small-icons {
+  position: relative;
+  right: 7px;
+  bottom: 6px;
 }
