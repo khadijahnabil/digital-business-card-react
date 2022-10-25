@@ -8,12 +8,20 @@ export default function MainBody() {
       <h1>Khadijah Nabil</h1>
       <p className="job-title">Frontend Developer</p>
       <p className="website">kcodes.com</p>
-      <button type="button" className="btn btn-light big-links">
-        <i className="fa-solid fa-envelope"></i> Email
-      </button>
-      <button type="button" className="btn btn-primary big-links">
-        <i className="fa-brands fa-linkedin"></i> LinkedIn
-      </button>
+      <a href="mailto:nabilkhadijah7@gmail.com">
+        <button type="button" className="btn btn-light big-links">
+          <i className="fa-solid fa-envelope"></i> Email
+        </button>
+      </a>
+      <a
+        href="https://www.linkedin.com/in/khadijahnabil/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <button type="button" className="btn btn-primary big-links">
+          <i className="fa-brands fa-linkedin"></i> LinkedIn
+        </button>
+      </a>
       <div>
         <h2>About</h2>
         <p className="info">
