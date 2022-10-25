@@ -1,0 +1,32 @@
+h1 {
+  font-size: 25px;
+  margin-top: 20px;
+}
+
+.job-title {
+  color: #f3bf99;
+  margin-bottom: 7px;
+  font-size: 13px;
+}
+
+.website {
+  font-size: 10px;
+}
+
+.big-links {
+  font-size: 14px;
+  width: 115px;
+  margin: 0 18px;
+}
+
+h2 {
+  margin: 20px 35px 10px;
+  font-size: 16px;
+  text-align: left;
+}
+
+.info {
+  font-size: 10px;
+  margin: 0 35px;
+  text-align: left;
+}

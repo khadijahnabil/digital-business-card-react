@@ -1,0 +1,18 @@
+footer {
+  margin: 20px 0;
+  padding: 20px;
+  background-color: #161619;
+  border-radius: 0 0 10px 10px;
+}
+
+.small-links {
+  width: 25px;
+  height: 25px;
+  margin: 0 20px;
+}
+
+.small-icons {
+  position: relative;
+  right: 7px;
+  bottom: 6px;
+}
